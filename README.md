@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](./figs/Logo.png)
+![logo](./figs/logo.png)
 
 **Tao Yang,  Tan Hao,  Zhou Liqun**
 
